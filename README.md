@@ -1,0 +1,2 @@
+# Hand-Gesture-Controll-using-machine-leanrning-in-python-
+This project enables gesture-based control of media playback (play/pause) and volume adjustment (up/down) using hand gestures. By detecting hand movements, the system allows users to interact with their media devices without needing to touch any buttons, offering a more intuitive and hands-free experience.  Features: Play/Pause Controll and volume.
